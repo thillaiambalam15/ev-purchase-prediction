@@ -1,0 +1,15 @@
+# Competition data -- download via Kaggle instead of committing (see README)
+data/raw/*.csv
+data/raw/*.zip
+data/processed/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
